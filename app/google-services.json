@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062518121433",
+    "firebase_url": "https://cartspiotp.firebaseio.com",
+    "project_id": "cartspiotp",
+    "storage_bucket": "cartspiotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062518121433:android:668fe8775e3d241caaefc8",
+        "android_client_info": {
+          "package_name": "com.vk.cartspiotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062518121433-i40v49a5633qf7roslkog48ccaji0hjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vk.cartspiotp",
+            "certificate_hash": "02987f5eac1942e467d5c435add2602941ad59c4"
+          }
+        },
+        {
+          "client_id": "1062518121433-vdli0gg26oivf8qajmg3muahkr8ctn14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWh4F_3IxLFZKZhKFnOidtsfrjtnTN_-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062518121433-vdli0gg26oivf8qajmg3muahkr8ctn14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
